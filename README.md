@@ -20,11 +20,11 @@
 
 #  CEP validation
 
-# ![cep validation](imagens)
+# ![cep validation](images/)
 
 ### This JavaScript code checks whether a given string (stored in the number variable) represents a valid number. In other words, it checks if the string only contains digits from 0 to 9.
 
 # API consumption
 
-# ![api consumption](imagens/consumo%20de%20api.png)
+# ![api consumption](images/)
 
