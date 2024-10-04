@@ -48,3 +48,14 @@
 
 ### The clearFormulario function is used to reset the fields of a form. It searches for the HTML elements that represent these fields (in this case, the street, neighborhood, city and UF fields) and assigns an empty string to the value of these elements. This has the effect of clearing the fields, preparing them so the user can enter new data.
 
+# Final Result
+
+### The project aims to create a smarter and more intuitive registration form, which uses technology to make users' lives easier and optimize data collection and storage processes. Integration with postal service APIs is presented as an effective solution to achieve these goals.
+
+![resultado](images/projeto%20final.png)
+
+# Technologies Used
+
+## [ViaCep](https://viacep.com.br/)
+## [Alura](https://www.alura.com.br/?srsltid=AfmBOor0GEDEMLMLgSHNuV0ooKz1hUMV1XWpdqTrfYDLfyxX_yy-eXBS)
+## [Ticiano Filho](https://github.com/TicianoFilho/PesquisaCEP/blob/main/script.js)
