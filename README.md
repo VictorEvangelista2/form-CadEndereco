@@ -1,4 +1,4 @@
-# ![registration form](imagens/registration%20form%20logo.png)
+# ![registration form](images/registration%20form%20logo.png)
 
 # Registration Form 
 
@@ -20,11 +20,31 @@
 
 #  CEP validation
 
-# ![cep validation](images/)
+# ![cep validation](images/cepValido.png)
 
 ### This JavaScript code checks whether a given string (stored in the number variable) represents a valid number. In other words, it checks if the string only contains digits from 0 to 9.
 
 # API consumption
 
-# ![api consumption](images/)
+# ![api consumption](images/consumoCep.png)
+
+### This JavaScript code, in short, queries a CEP Code (Postal Address Code) API to obtain information about an address based on the ZIP code provided by the user.
+
+# Fill in the Fields
+
+![inserir os campos](images/preencher%20os%20campos.png)
+
+### This function aims to take information from an address, which is stored in an object called address, and automatically fill in the fields of an HTML form with this data.
+
+# CEP code size
+
+![cep code size](images/tamanho%20de%20cep.png)
+
+### This cepValido function is a basic validation for Brazilian CEPs. It checks whether the CEP code has the correct size and whether it is made up only of numbers. This function can be used in forms to ensure that users enter valid CEPs codes.
+
+# Clear Form
+
+![clear form](images/limpar%20formulário.png)
+
+### The clearFormulario function is used to reset the fields of a form. It searches for the HTML elements that represent these fields (in this case, the street, neighborhood, city and UF fields) and assigns an empty string to the value of these elements. This has the effect of clearing the fields, preparing them so the user can enter new data.
 
