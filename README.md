@@ -1,6 +1,6 @@
 # ![registration form](images/registration%20form%20logo.png)
 
-# Registration Form 
+# Introduction
 
 ### Develop an intuitive and efficient registration form, capable of automating the search for address information based on the CEP (Postal Address Code) provided by the user. This functionality will be implemented through integration with an external API specialized in CEP code query, optimizing the registration process and reducing the possibility of typing errors.
 
