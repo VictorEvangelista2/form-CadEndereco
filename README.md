@@ -1,5 +1,7 @@
 # ![registration form](images/registration%20form%20logo.png)
 
+<img alt="Static Badges" src="https://img.shields.io/badge/version-1.0-blue"> <img alt="Static Badges" src="https://img.shields.io/badge/JavaScript--orange"> <img alt="Static Badges" src="https://img.shields.io/badge/HTML--green"> <img alt="Static Badges" src="https://img.shields.io/badge/English--purple">
+
 # Registration Form 
 
 ### Develop an intuitive and efficient registration form, capable of automating the search for address information based on the CEP (Postal Address Code) provided by the user. This functionality will be implemented through integration with an external API specialized in CEP code query, optimizing the registration process and reducing the possibility of typing errors.
@@ -56,6 +58,6 @@
 
 # Technologies Used
 
-## [ViaCep](https://viacep.com.br/)
-## [Alura](https://www.alura.com.br/?srsltid=AfmBOor0GEDEMLMLgSHNuV0ooKz1hUMV1XWpdqTrfYDLfyxX_yy-eXBS)
-## [Ticiano Filho](https://github.com/TicianoFilho/PesquisaCEP/blob/main/script.js)
+[ViaCep](https://viacep.com.br/) /
+[Alura](https://www.alura.com.br/?srsltid=AfmBOor0GEDEMLMLgSHNuV0ooKz1hUMV1XWpdqTrfYDLfyxX_yy-eXBS) /
+[Ticiano Filho](https://github.com/TicianoFilho/PesquisaCEP/blob/main/script.js)
