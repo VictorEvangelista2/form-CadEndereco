@@ -58,6 +58,6 @@
 
 # Technologies Used
 
-[ViaCep](https://viacep.com.br/) /
-[Alura](https://www.alura.com.br/?srsltid=AfmBOor0GEDEMLMLgSHNuV0ooKz1hUMV1XWpdqTrfYDLfyxX_yy-eXBS) /
+[ViaCep](https://viacep.com.br/) 
+[Alura](https://www.alura.com.br/?srsltid=AfmBOor0GEDEMLMLgSHNuV0ooKz1hUMV1XWpdqTrfYDLfyxX_yy-eXBS) 
 [Ticiano Filho](https://github.com/TicianoFilho/PesquisaCEP/blob/main/script.js)
